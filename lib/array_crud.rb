@@ -6,6 +6,7 @@ end
 
 def create_an_array
 
+  array ["Germany", "Ghana", "France", "kenya"]
 
 end
 
