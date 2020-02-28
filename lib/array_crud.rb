@@ -5,8 +5,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-araay.new (4)
-array ["Germany", "Ghana", "France", "kenya"]
+
 
 end
 
